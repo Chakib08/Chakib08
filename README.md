@@ -28,4 +28,8 @@
   <a href="https://gitlab.com/Chakib08" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
   </a>
+    &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@embeddedtutorials7653" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="50" height="50" style="fill:red;"/>
+  </a>
 </p>
