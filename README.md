@@ -22,7 +22,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://forums.developer.nvidia.com/u/chakibdace/summary" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Nvidia_logo.svg" alt="NVIDIA Developer Forum" width="50" height="50"/>
+    <img src="https://nvidianews.nvidia.com/_gallery/get_file/?file_id=544a0d86f6091d6699000060" alt="NVIDIA Developer Forum" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://gitlab.com/Chakib08" target="_blank">
